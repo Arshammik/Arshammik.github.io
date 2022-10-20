@@ -1,7 +1,7 @@
 # Arsham Mikaeili Namini
 ### B.Sc. Student of Biology, Kharazmi University, Tehran, Iran
-#### [Curriculum Vitae](https://github.com/Arshammik/Arshammik.github.io/blob/main/CV.pdf)
-#### [One Page Research Experience](https://github.com/Arshammik/Arshammik.github.io/blob/main/One%20Page%20Research%20Experience.pdf)
+#### [Curriculum Vitae](/CV.pdf)
+#### [One Page Research Experience](/One%20Page%20Research%20Experience.pdf)
 
 ## Certificates
 #### [NCBI BLAST](https://github.com/Arshammik/Arshammik.github.io/blob/main/NCBI.Certificatesuu.pdf)
