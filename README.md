@@ -21,7 +21,7 @@
 
 * [Comparative analysis of protein-protein interaction networks in metastatic breast cancer<br/>PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260584)
 
-* [An in silico comparative transcriptome analysis identifying hub lncRNAs and mRNAs in brain met- astatic small cell lung cancer (SCLC)<br/>Scientific Reports](https://www.researchsquare.com/article/rs-1636020/latest.pdf)
+* [An in silico comparative transcriptome analysis identifying hub lncRNAs and mRNAs in brain metastatic small cell lung cancer (SCLC)<br/>Scientific Reports](https://www.researchsquare.com/article/rs-1636020/latest.pdf)
 
 ### Under Review Articles 
 
