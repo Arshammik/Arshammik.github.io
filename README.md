@@ -25,9 +25,9 @@
 
 ### Under Review Articles 
 
-* Comparison of nucleotide base and inactive vaccines accomplishment to neutralised new variants of SARS-CoV2- in US and China — ASM
+* Comparison of nucleotide base and inactive vaccines accomplishment to neutralised new variants of SARS-CoV-2 in US and China<br/>ASM
 
-* The mutation dynamics of the spike protein and the rate of vaccination as the trojan horse against COVID-19 — Journal of Infection
+* The mutation dynamics of the spike protein and the rate of vaccination as the trojan horse against COVID-19<br/>Journal of Infection
 
 ### Archived Manuscripts 
 * [
